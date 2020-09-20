@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/allenxluo/tictactoe/static/css/main.55d72bbf.chunk.css",
+    "main.js": "/allenxluo/tictactoe/static/js/main.bf1796b3.chunk.js",
+    "main.js.map": "/allenxluo/tictactoe/static/js/main.bf1796b3.chunk.js.map",
+    "runtime-main.js": "/allenxluo/tictactoe/static/js/runtime-main.5671db6e.js",
+    "runtime-main.js.map": "/allenxluo/tictactoe/static/js/runtime-main.5671db6e.js.map",
+    "static/js/2.a2c56392.chunk.js": "/allenxluo/tictactoe/static/js/2.a2c56392.chunk.js",
+    "static/js/2.a2c56392.chunk.js.map": "/allenxluo/tictactoe/static/js/2.a2c56392.chunk.js.map",
+    "index.html": "/allenxluo/tictactoe/index.html",
+    "precache-manifest.b3d42f62483447400382fe1e9a924bec.js": "/allenxluo/tictactoe/precache-manifest.b3d42f62483447400382fe1e9a924bec.js",
+    "service-worker.js": "/allenxluo/tictactoe/service-worker.js",
+    "static/css/main.55d72bbf.chunk.css.map": "/allenxluo/tictactoe/static/css/main.55d72bbf.chunk.css.map",
+    "static/js/2.a2c56392.chunk.js.LICENSE.txt": "/allenxluo/tictactoe/static/js/2.a2c56392.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5671db6e.js",
+    "static/js/2.a2c56392.chunk.js",
+    "static/css/main.55d72bbf.chunk.css",
+    "static/js/main.bf1796b3.chunk.js"
+  ]
+}
